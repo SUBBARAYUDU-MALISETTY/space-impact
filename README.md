@@ -46,7 +46,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 - State management  
 - Event handling (keyboard & touch)  
 - Object-based game architecture  
-- Animations & particle systems  
+- Animations & particle system 
 
 ---
 
